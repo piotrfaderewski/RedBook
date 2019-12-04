@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Child Page - Second";
+}
+
+<div class="main child">
+    <div class="container pb-3">
+        <div class="text-center">
+            <h1 class="display-4">Second</h1>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id convallis ante. Ut magna lacus, placerat quis rhoncus non, commodo mollis sapien. Maecenas magna mauris, cursus et dui et, blandit lobortis turpis. Pellentesque erat risus, lacinia quis enim sit amet, imperdiet elementum mi. Sed urna sapien, tristique eu diam eget, dapibus vulputate sem. Vestibulum vitae eleifend arcu. Integer eleifend elementum ante, et ullamcorper nibh lobortis sit amet. Sed quis volutpat quam, id sollicitudin enim.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id convallis ante. Ut magna lacus, placerat quis rhoncus non, commodo mollis sapien. Maecenas magna mauris, cursus et dui et, blandit lobortis turpis. Pellentesque erat risus, lacinia quis enim sit amet, imperdiet elementum mi. Sed urna sapien, tristique eu diam eget, dapibus vulputate sem. Vestibulum vitae eleifend arcu. Integer eleifend elementum ante, et ullamcorper nibh lobortis sit amet. Sed quis volutpat quam, id sollicitudin enim.
+        </div>
+    </div>
+</div>
+
+@section Sidenav {
+    <div class="sidenav">
+        <a asp-area="" asp-controller="Child" asp-action="First">First</a>
+        <a asp-area="" asp-controller="Child" asp-action="Second">Second</a>
+        <a asp-area="" asp-controller="Child" asp-action="Third">Third</a>
+    </div>
+}

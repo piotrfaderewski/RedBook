@@ -9,27 +9,26 @@ using WebApplicationZlogowaniem.Models;
 
 namespace WebApplicationZlogowaniem.Controllers
 {
-    public class HomeController : Controller
+    public class ChildController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ChildController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ChildController(ILogger<ChildController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult First()
         {
             return View();
         }
 
-        public IActionResult Child()
+        public IActionResult Second()
         {
-            RedirectToActionResult redirectResult = new RedirectToActionResult("First", "Child", null);
-            return redirectResult;
+            return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Third()
         {
             return View();
         }
