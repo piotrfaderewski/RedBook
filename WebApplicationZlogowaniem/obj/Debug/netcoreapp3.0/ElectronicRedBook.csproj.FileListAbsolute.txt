@@ -123,3 +123,4 @@ D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Electro
 D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.csproj.CopyComplete
 D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.dll
 D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.pdb
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Home\Child.cshtml.g.cs

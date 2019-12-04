@@ -23,6 +23,11 @@ namespace WebApplicationZlogowaniem.Controllers
             return View();
         }
 
+        public IActionResult Child()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

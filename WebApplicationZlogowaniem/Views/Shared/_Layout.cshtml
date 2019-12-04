@@ -6,18 +6,18 @@
     <title>@ViewData["Title"] - ElectronicRedBook</title>
     <link rel="stylesheet" href="~/lib/bootstrap-4.3.1-dist/css/bootstrap.min.css" />
     <!--<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />-->
-    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/new.css" />
 </head>
 <body>
-    <header>
+    <header class="header">
         <nav class="navbar navbar-expand-sm bg-primary navbar-dark">
             <a class="navbar-brand text-white">ElectronicRedBook</a>
             <ul class="navbar-nav">
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Children</a>
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Child">Children</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Profile</a>
@@ -25,11 +25,10 @@
             </ul>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+
+    @RenderSection("Sidenav", false)
+
+    @RenderBody()
 
     <footer class="border-top footer text-muted">
         <div class="container">
