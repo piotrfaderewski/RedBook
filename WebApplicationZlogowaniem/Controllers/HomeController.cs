@@ -23,6 +23,12 @@ namespace WebApplicationZlogowaniem.Controllers
             return View();
         }
 
+        public IActionResult Child()
+        {
+            RedirectToActionResult redirectResult = new RedirectToActionResult("First", "Child", null);
+            return redirectResult;
+        }
+
         public IActionResult Privacy()
         {
             return View();

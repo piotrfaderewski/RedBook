@@ -1,0 +1,129 @@
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\appsettings.json
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.StaticWebAssets.xml
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.exe
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.deps.json
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.runtimeconfig.json
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.runtimeconfig.dev.json
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.pdb
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.Views.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.Views.pdb
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\staticwebassets\ElectronicRedBook.StaticWebAssets.Manifest.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\staticwebassets\ElectronicRedBook.StaticWebAssets.xml
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorAssemblyInfo.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorAssemblyInfo.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.AssemblyInfo.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.TagHelpers.input.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.TagHelpers.output.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorCoreGenerate.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorTargetAssemblyInfo.cache
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorTargetAssemblyInfo.cs
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.Views.pdb
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.csproj.CopyComplete
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.dll
+D:\VisualStudioProjects\ASP_WEB\Z logowaniem\WebApplicationZlogowaniem\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.pdb
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.StaticWebAssets.xml
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.exe
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.deps.json
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.runtimeconfig.json
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.runtimeconfig.dev.json
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.pdb
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.Views.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\ElectronicRedBook.Views.pdb
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.csprojAssemblyReference.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\staticwebassets\ElectronicRedBook.StaticWebAssets.Manifest.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\staticwebassets\ElectronicRedBook.StaticWebAssets.xml
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.MvcApplicationPartsAssemblyInfo.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.MvcApplicationPartsAssemblyInfo.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorAssemblyInfo.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorAssemblyInfo.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.AssemblyInfoInputs.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.AssemblyInfo.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.TagHelpers.input.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.TagHelpers.output.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorCoreGenerate.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorTargetAssemblyInfo.cache
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.RazorTargetAssemblyInfo.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.Views.pdb
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.csproj.CopyComplete
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.dll
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\ElectronicRedBook.pdb
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Child\First.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Child\Second.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Child\Third.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Home\Test.cshtml.g.cs
