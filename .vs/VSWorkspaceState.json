@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplicationZlogowaniem",
+    "\\WebApplicationZlogowaniem\\Areas",
+    "\\WebApplicationZlogowaniem\\Areas\\Identity",
+    "\\WebApplicationZlogowaniem\\Areas\\Identity\\Pages",
+    "\\WebApplicationZlogowaniem\\bin\\Release",
+    "\\WebApplicationZlogowaniem\\obj\\Release",
+    "\\WebApplicationZlogowaniem\\obj\\Release\\netcoreapp3.0",
+    "\\WebApplicationZlogowaniem\\Views",
+    "\\WebApplicationZlogowaniem\\Views\\Home",
+    "\\WebApplicationZlogowaniem\\Views\\Shared"
+  ],
+  "SelectedNode": "\\WebApplicationZlogowaniem\\wwwroot",
+  "PreviewInSolutionExplorer": false
+}
