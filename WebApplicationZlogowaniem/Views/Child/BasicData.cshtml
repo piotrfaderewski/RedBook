@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Dane dziecka";
+}
+
+<div class="main child">
+    <div class="container pb-3">
+        <div class="text-center">
+            <h1 class="display-4">Dane dziecka</h1>
+            <div class="form-css" id="form-css" style="float:left; left: 0;">
+                <label for="surname">Nazwisko:</label>
+                <input class="input-1" type="text" id="surname" /><br />
+                <label for="names">Imię (imiona):</label>
+                <input class="input-1" type="text" id="names" /><br />
+                <label for="birth-date">Data urodzenia:</label>
+                <input type="date" id="birthdate" /><br />
+                <label for="birth-place">Miejsce urodzenia:</label>
+                <input class="input-1" type="text" id="birthplace" /><br />
+                <label for="address">Adres(y):</label>
+                <input class="input-1" type="text" id="address" /><br />
+            </div>
+
+            <div class="form-css" id="form-css" style="float:right; left: 10px">
+                <label for="pesel">Numer ewidencyjny PESEL:</label>
+                <input type="text" id="pesel" style="width: 22%; font-size:20px; margin-left: 5px"/><br />
+            </div>
+
+            <div class="form-css" id="form-css" style="float:right; left: 10px; margin-top: 10px">
+                <h4>Grupa krwi i czynnik Rh dziecka</h4>
+                <label for="blood-type">Grupa krwi:</label>
+                <input type="text" id="blood-type" style="margin: 10px 4px 10px 10px;"/>
+                <label for="blood-rh">Rh:</label>
+                <input type="text" id="blood-rh" /><br />
+                <label for="date-exam">Data badania:</label>
+                <input type="text" id="date-exam" style="width: 70%;"/><br /><br />
+
+                <input type="text" id="pesel" style="width: 48%;" placeholder="Id laboratorium" />
+                <input type="text" id="pesel" style="width: 48%;" placeholder="Id osoby upoważnionej" />
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Sidenav {
+    <div class="sidenav">
+        <a asp-area="" asp-controller="Child" asp-action="BasicData">Dane dziecka</a>
+        <a asp-area="" asp-controller="Child" asp-action="Second">Second</a>
+        <a asp-area="" asp-controller="Child" asp-action="Third">Third</a>
+    </div>
+}

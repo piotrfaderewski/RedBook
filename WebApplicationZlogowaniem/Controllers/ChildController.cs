@@ -18,7 +18,7 @@ namespace WebApplicationZlogowaniem.Controllers
             _logger = logger;
         }
 
-        public IActionResult First()
+        public IActionResult BasicData()
         {
             return View();
         }
