@@ -1,5 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Child Page - Second";
+    Layout = "_ChildLayout";
 }
 
 <div class="main child">
@@ -11,11 +12,3 @@
         </div>
     </div>
 </div>
-
-@section Sidenav {
-    <div class="sidenav">
-        <a asp-area="" asp-controller="Child" asp-action="First">First</a>
-        <a asp-area="" asp-controller="Child" asp-action="Second">Second</a>
-        <a asp-area="" asp-controller="Child" asp-action="Third">Third</a>
-    </div>
-}

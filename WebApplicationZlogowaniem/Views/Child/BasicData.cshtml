@@ -1,5 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Dane dziecka";
+    Layout = "_ChildLayout";
 }
 
 <div class="main child">
@@ -21,7 +22,7 @@
 
             <div class="form-css" id="form-css" style="float:right; left: 10px">
                 <label for="pesel">Numer ewidencyjny PESEL:</label>
-                <input type="text" id="pesel" style="width: 22%; font-size:20px; margin-left: 5px"/><br />
+                <input type="text" id="pesel" style="width: 23%; font-size:20px; margin-left: 5px; text-align: center;"/><br />
             </div>
 
             <div class="form-css" id="form-css" style="float:right; left: 10px; margin-top: 10px">
@@ -41,10 +42,4 @@
     </div>
 </div>
 
-@section Sidenav {
-    <div class="sidenav">
-        <a asp-area="" asp-controller="Child" asp-action="BasicData">Dane dziecka</a>
-        <a asp-area="" asp-controller="Child" asp-action="Second">Second</a>
-        <a asp-area="" asp-controller="Child" asp-action="Third">Third</a>
-    </div>
-}
+
