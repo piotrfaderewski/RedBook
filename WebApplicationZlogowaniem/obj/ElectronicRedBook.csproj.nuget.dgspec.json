@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codecool\\C#\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj": {}
+    "C:\\zadania\\RedBook2\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj": {}
   },
   "projects": {
-    "D:\\Codecool\\C#\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj": {
+    "C:\\zadania\\RedBook2\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codecool\\C#\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj",
+        "projectUniqueName": "C:\\zadania\\RedBook2\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj",
         "projectName": "ElectronicRedBook",
-        "projectPath": "D:\\Codecool\\C#\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj",
-        "packagesPath": "C:\\Users\\mwagr\\.nuget\\packages\\",
-        "outputPath": "D:\\Codecool\\C#\\RedBook\\WebApplicationZlogowaniem\\obj\\",
+        "projectPath": "C:\\zadania\\RedBook2\\RedBook\\WebApplicationZlogowaniem\\ElectronicRedBook.csproj",
+        "packagesPath": "C:\\Users\\grzec\\.nuget\\packages\\",
+        "outputPath": "C:\\zadania\\RedBook2\\RedBook\\WebApplicationZlogowaniem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mwagr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grzec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
