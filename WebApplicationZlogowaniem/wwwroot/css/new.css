@@ -88,3 +88,11 @@ h1 {
     border-color: black;
     padding: 10px 0px 10px 0px;
 }
+
+.form-title {
+    font-size: 22px;
+    font-weight: bold;
+    left: 19%;
+    position: absolute;
+    top: 6px;
+}

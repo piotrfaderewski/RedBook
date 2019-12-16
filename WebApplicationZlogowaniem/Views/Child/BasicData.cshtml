@@ -31,24 +31,26 @@
                     <button id="second_btn1" style="display: none;">Save</button>
                     <button id="second_btn2" style="display: inline;">Edit</button>
                 </div>
-                <div style="width: 100%; float: inherit;">
-                    <label for="pesel">Numer ewidencyjny PESEL:</label>
-                    <input type="text" id="pesel" style="width: 23%; font-size:20px; margin-left: 5px; text-align: center;" />
+                <span class="form-title" style="left:26%">Numer ewidencyjny PESEL</span>
+                <div style="width: 100%; float: inherit; margin-top: 10px;">
+                    <input type="text" id="pesel" style="width: 32%; font-size:20px; margin-left: 5px; text-align: center; letter-spacing: 3px;" />
                 </div>
             </div>
 
             <div class="form-css" id="form-css" style="float: right; left: 10px; margin-top: 10px">
-                <div class="buttons">
+                <span class="buttons">
                     <button id="third_btn1" style="display: none;">Save</button>
                     <button id="third_btn2" style="display: inline;">Edit</button>
+                </span>
+                <span class="form-title">Grupa krwi i czynnik Rh dziecka</span>
+                <div style="margin-top: 29px">
+                    <label for="blood-type">Grupa krwi:</label>
+                    <input type="text" id="blood-type" style="margin: 10px 4px 10px 10px;" />
+                    <label for="blood-rh">Rh:</label>
+                    <input type="text" id="blood-rh" /><br />
+                    <label for="date-exam">Data badania:</label>
+                    <input type="text" id="date-exam" style="width: 70%;" /><br /><br />
                 </div>
-                <h4>Grupa krwi i czynnik Rh dziecka</h4>
-                <label for="blood-type">Grupa krwi:</label>
-                <input type="text" id="blood-type" style="margin: 10px 4px 10px 10px;" />
-                <label for="blood-rh">Rh:</label>
-                <input type="text" id="blood-rh" /><br />
-                <label for="date-exam">Data badania:</label>
-                <input type="text" id="date-exam" style="width: 70%;" /><br /><br />
 
                 <input type="text" id="pesel" style="width: 48%;" placeholder="Id laboratorium" />
                 <input type="text" id="pesel" style="width: 48%;" placeholder="Id osoby upoważnionej" />
