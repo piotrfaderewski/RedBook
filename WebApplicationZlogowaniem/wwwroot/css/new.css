@@ -147,11 +147,24 @@ h1 {
     border-collapse: separate !important;
     border: 2px solid #0062cc;
     border-radius: 15px;
+    border-spacing: 0;
     font-size: 17px;
     width: 70%;
     margin-left: 10%;
     margin-right: 20%;
     margin-top: 15px;
+}
+
+.tbl-header-left {
+    background-color: #5197ffd6;
+    border-radius: 15px 0px 0px 0px;
+    width: 60%;
+}
+
+.tbl-header-right {
+    background-color: #5197ffd6;
+    border-radius: 0px 15px 0px 0px;
+    width: 40%;
 }
 
 .tbl-span-search {
