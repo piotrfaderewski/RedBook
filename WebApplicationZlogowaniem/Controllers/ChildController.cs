@@ -18,7 +18,16 @@ namespace WebApplicationZlogowaniem.Controllers
             _logger = logger;
         }
 
+        public IActionResult Index()
+        {
+            return View();
+        }
+
         public IActionResult BasicData()
+        {
+            return View();
+        }
+        public IActionResult Search()
         {
             return View();
         }

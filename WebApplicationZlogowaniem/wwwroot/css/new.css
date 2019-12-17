@@ -32,11 +32,42 @@ h1 {
     margin-right: 20px;
 }
 
+.input-2 {
+    width: 32%;
+    font-size: 20px;
+    margin-left: 5px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
 .buttons {
     float: right;
     margin-right: 5px;
     margin-top: -5px;
     margin-bottom: 5px;
+}
+
+.button {
+    border: 2px solid #0062cc;
+    border-radius: 5px;
+    background-color: white;
+    color: #0062cc;
+    padding: 0px 5px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0062cc;
+    color: white;
+}
+
+.btn-type-1 {
+    display: none;
+}
+
+.btn-type-2 {
+    display: inline;
 }
 
 .footer {
@@ -83,9 +114,8 @@ h1 {
 .form-css {
     width: 50%;
     position: relative;
-    border-width: 2px;
-    border-style: solid;
-    border-color: black;
+    border-radius: 15px;
+    border: 2px solid #0062cc;
     padding: 10px 0px 10px 0px;
 }
 
