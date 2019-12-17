@@ -142,3 +142,25 @@ h1 {
     position: absolute;
     top: 6px;
 }
+
+.tbl {
+    border-collapse: separate !important;
+    border: 2px solid #0062cc;
+    border-radius: 15px;
+    font-size: 17px;
+    width: 70%;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 15px;
+}
+
+.tbl-span-search {
+    float: left;
+    margin-left: 10%;
+    margin-bottom: 5px;
+}
+
+.tbl-span-pages {
+    float: right;
+    margin-right: 20%;
+}
