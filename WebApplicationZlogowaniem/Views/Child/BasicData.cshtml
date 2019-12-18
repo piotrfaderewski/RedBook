@@ -12,18 +12,36 @@
                     <button id="first_btn1" class="button btn-type-1">Save</button>
                     <button id="first_btn2" class="button btn-type-2">Edit</button>
                 </div>
-                <div style="width: 100%; float: inherit;">
-                    <label for="surname">Nazwisko:</label>
-                    <input class="input-1" type="text" id="surname" />
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="surname-addon">Nazwisko</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="Surname" aria-describedby="surname-addon">
                 </div>
-                <label for="names">Imię (imiona):</label>
-                <input class="input-1" type="text" id="names" /><br />
-                <label for="birth-date">Data urodzenia:</label>
-                <input type="date" id="birthdate" /><br />
-                <label for="birth-place">Miejsce urodzenia:</label>
-                <input class="input-1" type="text" id="birthplace" /><br />
-                <label for="address">Adres(y):</label>
-                <input class="input-1" type="text" id="address" /><br />
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="name-addon">Imię (imiona)</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="Name" aria-describedby="name-addon">
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="birthdate-addon">Data urodzenia</span>
+                    </div>
+                    <input type="date" class="form-control" aria-label="Birthdate" aria-describedby="birthdate-addon">
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="birthplace-addon">Miejsce urodzenia</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="Birthplace" aria-describedby="birthplace-addon">
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="address-addon">Adres(y)</span>
+                    </div>
+                    <input type="text" class="form-control" aria-label="Address" aria-describedby="address-addon">
+                </div>
             </div>
 
             <div class="form-css" id="form-css" style="float:right; left: 10px">
@@ -32,8 +50,8 @@
                     <button id="second_btn2" class="button btn-type-2">Edit</button>
                 </div>
                 <span class="form-title" style="left:26%">Numer ewidencyjny PESEL</span>
-                <div style="width: 100%; float: inherit; margin-top: 10px;">
-                    <input type="text" id="pesel" class="input-2" />
+                <div class="input-group group-2">
+                    <input type="text" class="form-control input-2" />
                 </div>
             </div>
 
@@ -44,18 +62,28 @@
                 </span>
                 <span class="form-title">Grupa krwi i czynnik Rh dziecka</span>
                 <div style="margin-top: 29px">
-                    <label for="blood-type">Grupa krwi:</label>
-                    <input type="text" id="blood-type" style="margin: 10px 4px 10px 10px;" />
-                    <label for="blood-rh">Rh:</label>
-                    <input type="text" id="blood-rh" /><br />
-                    <label for="date-exam">Data badania:</label>
-                    <input type="text" id="date-exam" style="width: 70%;" /><br /><br />
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend prepend-group">
+                            <span class="input-group-text prepend-span" id="blood-type-addon">Grupa krwi</span>
+                        </div>
+                        <input type="text" class="form-control" aria-label="Blood Type" aria-describedby="blood-type-addon">
+                        <div class="input-group-prepend" style="width: 8%;">
+                            <span class="input-group-text" id="blood-rh-addon">Rh</span>
+                        </div>
+                        <input type="text" class="form-control" aria-label="Blood RH" aria-describedby="blood-rh-addon">
+                    </div>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend prepend-group">
+                            <span class="input-group-text prepend-span" id="exam-date-addon">Data badania</span>
+                        </div>
+                        <input type="date" class="form-control" aria-label="Exam Date" aria-describedby="exam-date-addon">
+                    </div>
                 </div>
-
-                <input type="text" id="pesel" style="width: 48%;" placeholder="Id laboratorium" />
-                <input type="text" id="pesel" style="width: 48%;" placeholder="Id osoby upoważnionej" />
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Id laboratorium" />
+                    <input type="text" class="form-control" placeholder="Id osoby upoważnionej" />
+                </div>
             </div>
-
         </div>
     </div>
 </div>

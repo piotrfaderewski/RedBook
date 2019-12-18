@@ -33,9 +33,7 @@ h1 {
 }
 
 .input-2 {
-    width: 32%;
-    font-size: 20px;
-    margin-left: 5px;
+    font-size: 19px;
     text-align: center;
     letter-spacing: 3px;
 }
@@ -176,4 +174,24 @@ h1 {
 .tbl-span-pages {
     float: right;
     margin-right: 20%;
+}
+
+.prepend-span {
+    width: 100%;
+}
+
+.prepend-group {
+    width: 26%;
+}
+
+.input-group {
+    width: 98%;
+    margin-left: 1%;
+}
+
+.group-2 {
+    width: 40%;
+    float: left;
+    margin-top: 35px;
+    left: 30%;
 }
