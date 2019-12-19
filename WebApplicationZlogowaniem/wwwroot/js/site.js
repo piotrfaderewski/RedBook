@@ -3,21 +3,38 @@
 
 // Write your JavaScript code.
 
-function toggle() {
-    var target_group = this.id.slice(0, -1);
+function toggle(e) {
+    var target_group = e.target.id.slice(0, -1);
     var btn1 = document.getElementById(target_group + '1');
     var btn2 = document.getElementById(target_group + '2');
 
-    if (this.id === btn1.id) {
-        this.style.display = 'none';
+    var parent = e.target.parentNode.parentNode;
+    var inputs = parent.getElementsByTagName('input');
+
+    if (e.target.id === btn1.id) {
+        e.target.style.display = 'none';
         btn2.innerText = 'Edit';
-    } else if (this.id === btn2.id) {
-        if (this.innerText === 'Edit') {
+    } else if (e.target.id === btn2.id) {
+        if (e.target.innerText === 'Edit') {
             btn1.style.display = 'inline';
             btn2.innerText = 'Cancel';
         } else {
             btn1.style.display = 'none';
             btn2.innerText = 'Edit';
+        }
+    }
+    changeAccess(inputs);
+}
+
+function changeAccess(inputs) {
+    for (let item of inputs) {
+        var parent = item.parentNode;
+        if (parent.getAttribute('disabled') == null) {
+            if (item.disabled === true) {
+                item.disabled = false;
+            } else {
+                item.disabled = true;
+            }
         }
     }
 }
