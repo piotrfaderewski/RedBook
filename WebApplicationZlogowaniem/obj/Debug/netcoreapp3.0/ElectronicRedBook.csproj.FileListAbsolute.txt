@@ -203,3 +203,4 @@ D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\V
 D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_MainLayout.cshtml.g.cs
 D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Child\Index.cshtml.g.cs
 D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Child\Search.cshtml.g.cs
+D:\Codecool\C#\RedBook\WebApplicationZlogowaniem\obj\Debug\netcoreapp3.0\Razor\Views\Child\labor.cshtml.g.cs
