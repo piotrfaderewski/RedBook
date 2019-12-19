@@ -8,7 +8,143 @@
         <div class="text-center">
             <h1 class="display-4">Poród</h1>
 
-        
+            <div class="form-css" id="form">
+                <span class="form-buttons">
+                    <button id="first_btn1" class="button btn-type-1">Save</button>
+                    <button id="first_btn2" class="button btn-type-2">Edit</button>
+                </span>
+                <div style="margin-top: 29px">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend prepend-group">
+                            <span class="input-group-text prepend-span" id="date-addon">Data badania</span>
+                        </div>
+                        <input type="date" id="date" class="form-control" aria-label="Date" aria-describedby="date-addon" disabled>
+                    </div>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <label class="input-group-text" for="birth_place">Miejsce urodzenia</label>
+                        </div>
+                        <select class="custom-select" id="birth_place" disabled>
+                            <option selected>Choose...</option>
+                            <option value="1">Szpital</option>
+                            <option value="2">Ambulatorium</option>
+                            <option value="3">Dom</option>
+                            <option value="4">Inne</option>
+                        </select>
+                        <div class="input-group-append">
+                            <input type="text" id="birth_place_other" class="form-control" disabled />
+                        </div>
+                    </div>
+                    <div class="input-group" id="asd" disabled="true">
+                        <input type="text" id="id_hospital" class="form-control" placeholder="Id szpitala" disabled />
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="labor_week">Poród w</span>
+                    </div>
+                    <input type="text" id="week" class="form-control" aria-label="Labor Week" aria-describedby="labor_week" disabled>
+                    <div class="input-group-append">
+                        <span class="input-group-text">tygodniu ciąży</span>
+                    </div>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="birth_kind">Poród</label>
+                    </div>
+                    <select class="custom-select" id="birth_kind" disabled>
+                        <option selected>Choose...</option>
+                        <option value="1">Pojedynczy</option>
+                        <option value="2">Bliźniaczy</option>
+                    </select>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="birth_kind_2_span">bliźnię, które z kolei</span>
+                    </div>
+                    <input type="text" id="birth_kind_2" class="form-control" aria-label="Labor Week 2" aria-describedby="birth_kind_2_span" disabled>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="duration_1_span">Czas trwania I okresu</span>
+                    </div>
+                    <input type="text" id="duration_1" class="form-control" aria-label="Labor Week" aria-describedby="duration_1_span" disabled>
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="duration_1_span">godz., II okresu</span>
+                    </div>
+                    <input type="text" id="duration_2" class="form-control" aria-label="Labor Week" aria-describedby="duration_1_span" disabled>
+                    <div class="input-group-append">
+                        <span class="input-group-text">min.</span>
+                    </div>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="amniotic_fluid">Płyn owodniowy</label>
+                    </div>
+                    <select class="custom-select" id="amniotic_fluid" disabled>
+                        <option selected>Choose...</option>
+                        <option value="1">Przejrzysty</option>
+                        <option value="2">Mętny</option>
+                        <option value="3">Zielony</option>
+                        <option value="4">Krwisty</option>
+                    </select>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="amniotic_fluid">Płyn owodniowy</label>
+                    </div>
+                    <select class="custom-select" id="amniotic_fluid" disabled>
+                        <option selected>Choose...</option>
+                        <option value="1">Przejrzysty</option>
+                        <option value="2">Mętny</option>
+                        <option value="3">Zielony</option>
+                        <option value="4">Krwisty</option>
+                    </select>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label class="input-group-text" for="birth_type">Rodzaj porodu</label>
+                    </div>
+                    <select class="custom-select" id="birth_type" disabled>
+                        <option selected>Choose...</option>
+                        <option value="1">Siłami natury</option>
+                        <option value="2">Kleszcze</option>
+                        <option value="3">VE</option>
+                        <option value="4">Pomoc ręczna</option>
+                    </select>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="ceasarean_span">Cięcie cesarskie, wskazania</span>
+                    </div>
+                    <input type="text" id="ceasarean" class="form-control" aria-label="Caesarean section" aria-describedby="ceasarean_span" disabled>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="anesthesia_span">Zastosowano znieczulenie</span>
+                    </div>
+                    <input type="text" id="anesthesia" class="form-control" aria-label="Anesthesia" aria-describedby="anesthesia_span" disabled>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="drugs_span">Leki w czasie I i II okresu porodu</span>
+                    </div>
+                    <input type="text" id="drugs" class="form-control" aria-label="Drugs during 1st and 2nd period" aria-describedby="drugs_span" disabled>
+                </div>
+
+
+
+            </div>
         </div>
     </div>
 </div>

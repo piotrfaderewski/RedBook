@@ -10,6 +10,7 @@ function toggle(e) {
 
     var parent = e.target.parentNode.parentNode;
     var inputs = parent.getElementsByTagName('input');
+    var selects = parent.getElementsByTagName('select');
 
     if (e.target.id === btn1.id) {
         e.target.style.display = 'none';
@@ -24,6 +25,7 @@ function toggle(e) {
         }
     }
     changeAccess(inputs);
+    changeAccess(selects);
 }
 
 function changeAccess(inputs) {
