@@ -38,7 +38,7 @@ h1 {
     letter-spacing: 3px;
 }
 
-.buttons {
+.form-buttons {
     float: right;
     margin-right: 5px;
     margin-top: -5px;
@@ -68,20 +68,22 @@ h1 {
     display: inline;
 }
 
-.btn-link-left {
+.btn-link-group {
     position: absolute;
     top: 35%;
     left: 27%;
+}
+
+.btn-link-left {
     padding: 34px 55px;
     font-size: 30px;
+    margin-right: 5px;
 }
 
 .btn-link-right {
-    position: absolute;
-    top: 35%;
-    left: 50%;
     padding: 34px 74px;
     font-size: 30px;
+    margin-left: 5px;
 }
 
 .footer {
