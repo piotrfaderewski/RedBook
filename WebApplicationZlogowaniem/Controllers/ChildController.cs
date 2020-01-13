@@ -32,16 +32,6 @@ namespace WebApplicationZlogowaniem.Controllers
             return View();
         }
 
-        public IActionResult Second()
-        {
-            return View();
-        }
-
-        public IActionResult Third()
-        {
-            return View();
-        }
-
         public IActionResult Labor()
         {
             return View();
