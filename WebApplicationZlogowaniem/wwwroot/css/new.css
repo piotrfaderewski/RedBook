@@ -197,3 +197,7 @@ h1 {
     margin-top: 35px;
     left: 30%;
 }
+
+.on-top {
+    z-index: 3;
+}
