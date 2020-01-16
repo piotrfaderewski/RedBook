@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Dane dziecka";
+    Layout = "_ChildLayout";
+}
+
+<div class="main child">
+    <div class="container pb-3">
+        <div class="text-center">
+            <h1 class="display-4">Dane dziecka</h1>
+            <div class="form-css" id="form_1" style="float:left; left: 0;">
+                <div class="form-buttons">
+                    <button id="first_btn1" class="button btn-type-1">Save</button>
+                    <button id="first_btn2" class="button btn-type-2">Edit</button>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="surname-addon">Nazwisko</span>
+                    </div>
+                    <input type="text" id="surname" class="form-control" aria-label="Surname" aria-describedby="surname-addon" disabled>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="name-addon">Imię (imiona)</span>
+                    </div>
+                    <input type="text" id="name" class="form-control" aria-label="Name" aria-describedby="name-addon" disabled>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="birthdate-addon">Data urodzenia</span>
+                    </div>
+                    <input type="date" id="birthdate" class="form-control" aria-label="Birthdate" aria-describedby="birthdate-addon" disabled>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="birthplace-addon">Miejsce urodzenia</span>
+                    </div>
+                    <input type="text" id="birthplace" class="form-control" aria-label="Birthplace" aria-describedby="birthplace-addon" disabled>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend prepend-group">
+                        <span class="input-group-text prepend-span" id="address-addon">Adres(y)</span>
+                    </div>
+                    <input type="text" id="address" class="form-control" aria-label="Address" aria-describedby="address-addon" disabled>
+                </div>
+            </div>
+
+            <div class="form-css" id="form_2" style="float:right; left: 10px">
+                <div class="form-buttons">
+                    <button id="second_btn1" class="button btn-type-1">Save</button>
+                    <button id="second_btn2" class="button btn-type-2">Edit</button>
+                </div>
+                <span class="form-title" style="left:26%">Numer ewidencyjny PESEL</span>
+                <div class="input-group group-2">
+                    <input type="text" id="pesel" class="form-control input-2" disabled/>
+                </div>
+            </div>
+
+            <div class="form-css" id="form_3" style="float: right; left: 10px; margin-top: 10px">
+                <span class="form-buttons">
+                    <button id="third_btn1" class="button btn-type-1">Save</button>
+                    <button id="third_btn2" class="button btn-type-2">Edit</button>
+                </span>
+                <span class="form-title">Grupa krwi i czynnik Rh dziecka</span>
+                <div style="margin-top: 29px">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend prepend-group">
+                            <span class="input-group-text prepend-span" id="blood-type-addon">Grupa krwi</span>
+                        </div>
+                        <input type="text" id="blood_type" class="form-control" aria-label="Blood Type" aria-describedby="blood-type-addon" disabled>
+                        <div class="input-group-prepend" style="width: 8%;">
+                            <span class="input-group-text" id="blood-rh-addon">Rh</span>
+                        </div>
+                        <input type="text" id="blood_rh" class="form-control" aria-label="Blood RH" aria-describedby="blood-rh-addon" disabled>
+                    </div>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend prepend-group">
+                            <span class="input-group-text prepend-span" id="exam-date-addon">Data badania</span>
+                        </div>
+                        <input type="date" id="exam_date" class="form-control" aria-label="Exam Date" aria-describedby="exam-date-addon" disabled>
+                    </div>
+                </div>
+                <div class="input-group" id="asd" disabled="true">
+                    <input type="text" id="id_lab" class="form-control" placeholder="Id laboratorium" disabled/>
+                    <input type="text" id="id_user" class="form-control" placeholder="Id osoby upoważnionej" disabled/>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -25,7 +25,7 @@ namespace WebApplicationZlogowaniem.Controllers
 
         public IActionResult Child()
         {
-            RedirectToActionResult redirectResult = new RedirectToActionResult("First", "Child", null);
+            RedirectToActionResult redirectResult = new RedirectToActionResult("Index", "Child", null);
             return redirectResult;
         }
 
